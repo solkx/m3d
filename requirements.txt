@@ -1,0 +1,4 @@
+prettytable
+transformers
+sklearn
+gensim
