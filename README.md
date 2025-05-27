@@ -13,11 +13,10 @@ Our dataset can be found in the `data` and Image download [link](https://drive.g
 ### 3. Training and Test
 Our benchmark model is trained and tested through `python main.py`
 
-### <font color="red">4. Cite (Important !!!)</font>
-Bib Format: 
+## 4. Cite (Important !!!)
 ```
 @article{liu2024m,
-  title={M $\^{}$\{$3$\}$ $ D: A Multimodal, Multilingual and Multitask Dataset for Grounded Document-level Information Extraction},
+  title={M3D: A Multimodal, Multilingual and Multitask Dataset for Grounded Document-level Information Extraction},
   author={Liu, Jiang and Li, Bobo and Yang, Xinran and Yang, Na and Fei, Hao and Zhang, Mingyao and Li, Fei and Ji, Donghong},
   journal={arXiv preprint arXiv:2412.04026},
   year={2024}
