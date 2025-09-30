@@ -1,4 +1,4 @@
-## [M3D: A Multimodal, Multilingual and Multitask Dataset for Grounded Document-level Information Extraction](https://arxiv.org/abs/2412.04026)
+## [M3D: A Multimodal, Multilingual and Multitask Dataset for Grounded Document-level Information Extraction](https://ieeexplore.ieee.org/abstract/document/11159622)
 
 ### 1. Dataset Introduction
 M3D is a multimodal multilingual multitask dataset, which has the following features: 
@@ -15,9 +15,10 @@ Our benchmark model is trained and tested through `python main.py`
 
 ## 4. Cite (Important !!!)
 ```
-@article{liu2024m,
-  title={M3D: A Multimodal, Multilingual and Multitask Dataset for Grounded Document-level Information Extraction},
+@article{liu2025m,
+  title={M 3 D: a Multimodal, Multilingual and Multitask Dataset for Grounded Document-level Information Extraction},
   author={Liu, Jiang and Li, Bobo and Yang, Xinran and Yang, Na and Fei, Hao and Zhang, Mingyao and Li, Fei and Ji, Donghong},
-  journal={arXiv preprint arXiv:2412.04026},
-  year={2024}
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2025},
+  publisher={IEEE}
 }
