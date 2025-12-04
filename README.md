@@ -21,6 +21,8 @@ Our benchmark model is trained and tested through `python main.py`
   title={M3D: a Multimodal, Multilingual and Multitask Dataset for Grounded Document-level Information Extraction},
   author={Liu, Jiang and Li, Bobo and Yang, Xinran and Yang, Na and Fei, Hao and Zhang, Mingyao and Li, Fei and Ji, Donghong},
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
-  year={2025},
-  publisher={IEEE}
+  year={2026},
+  volume={48},
+  number={1},
+  pages={807-823}
 }
