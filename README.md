@@ -1,7 +1,5 @@
 ## [M3D: A Multimodal, Multilingual and Multitask Dataset for Grounded Document-level Information Extraction](https://ieeexplore.ieee.org/abstract/document/11159622)
 
-### 0. Our dataset has been accepted by the top journal TPAMI.
-
 ### 1. Dataset Introduction
 M3D is a multimodal multilingual multitask dataset, which has the following features: 
 * (1) It contains paired document-level text and video to enrich multimodal information; 
